@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HiLTi</string>
+     <string name="title_home">الرئيسية</string>
+    <string name="title_bulk_buyers">المشترين بالجملة</string>
+    <string name="title_shopping_cart">سلة التسوق</string>
+    <string name="devices_screen">حماية الأجهزة</string>
+    <string name="mobile_skin">موبايل سكِن</string>
+    <string name="mobile_screens">موبايل سكرين</string>
+    <string name="wood_designs">تصاميم خشبية</string>
+    <string name="login_admin_name">اسم المستخدم</string>
+    <string name="login_password">كلمة السر</string>
+    <string name="login_remember_me">تذكرني</string>
+    <string name="login_btn">تسجيل الدخول</string>
+    <string name="brand_name">اسم الماركة</string>
+    <string name="save_btn">حفظ</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="alert_delete_title">هل تريد حذف العنصر بالتأكيد ؟</string>
+    <string name="toast_delete">تم حذف العنصر </string>
+
+
+    <string name="toast_add_product_fail">حدث خطأ, يرجى المحاولة!</string>
+    <string name="brands_btn">الماركات</string>
+    <string name="product_details_code">"الكود :"</string>
+    <string name="product_details_description">الوصف :</string>
+    <string name="product_details_select_mobile">قم باختيارك جهازك :</string>
+    <string name="product_details_notes">ادخل أي عبارة تريد إضافتها للتصميم :</string>
+    <string name="product_details_extra_price">هذه الإضافة تكلفك سعر إضافي = </string>
+    <string name="product_details_quantity">الكمية  :     </string>
+    <string name="add_to_cart">إضافة إلى السلة</string>
+    <string name="confirm_order_title">ادخل بيانات التوصيل من فضلك</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="full_name">الاسم كامل</string>
+    <string name="address">العنوان</string>
+    <string name="city">المدينة</string>
+    <string name="total_price">المبلغ الكلي</string>
+    <string name="confirm">تأكيد</string>
+    <string name="screens">موبايل سكرين</string>
+    <string name="select_brand">قم باختيار ماركة جهازك</string>
+    <string name="select_model">قم باختيار نوع جهازك</string>
+    <string name="skins">كفرات موبايل</string>
+    <string name="wood_designs_title">تصميمات خشبية</string>
+    <string name="quantity_1">الكمية = 1</string>
+    <string name="bulk_buyers_message">يمكنك التسوق كمشتري بالجملة والحصول على أسعار خاصة, لنبدأ! </string>
+    <string name="sign_phone">تسجيل الدخول برقم الهاتف</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="next">التالي</string>
+    <string name="toast_added_to_cart">تمت الإضافة لسلة التسوق!</string>
+    <string name="bulk_register_label"> قم بإكمال نموذج التسجيل من فضلك </string>
+    <string name="bulk_register_name">ادخل اسمك كاملاً من فضلك!</string>
+    <string name="bulk_register_email">ادخل بريدك من فضلك!</string>
+    <string name="bulk_register_address">ادخل عنوانك من فضلك!</string>
+    <string name="toast_register_successfully">تم التسجيل بنجاح!</string>
+    <string name="toast_empty_cart">سلة التسوق فارغة!</string>
+    <string name="alert_remove_item">إزالة العنصر من سلة التسوق؟</string>
+    <string name="remove">إزالة</string>
+    <string name="toast_remove_item">تمت الإزالة بنجاح!</string>
+    <string name="total_price_text">المبلغ الكلي = ج.م.</string>
+    <string name="toast_add_phone_number">ادخل رقمك من فضلك!</string>
+    <string name="toast_add_name">ادخل اسمك كاملاً من فضلك!</string>
+    <string name="toast_add_address">ادخل عنوانك من فضلك!</string>
+    <string name="toast_add_city">ادخل مدينتك من فضلك!</string>
+    <string name="cart_label">يمكنك شراء المزيد من المنتجات بعد استلام طلبك السابق!</string>
+    <string name="toast_order_message">تم تأكيد طلبك بنجاح!</string>
+    <string name="logout_alert">تسجيل الخروج من هذا الحساب؟</string>
+    <string name="toast_logout">تم تسجيل الخروج بنجاح</string>
+    <string name="toast_welcome_buyer">أهلاً بك عزيزي المشتري بالجملة</string>
+    <string name="devices_title">حماية الأجهزة</string>
+    <string name="toast_add_device_model">ادخل اسم الجهاز من فضلك!</string>
+    <string name="toast_add_device_height">ادخل طول الجهاز(بالملليمتر)من فضلك!</string>
+    <string name="toast_add_device_width">ادخل عرض الجهاز(بالملليمتر) من فضلك!</string>
+    <string name="device_model">ادخل اسم الجهاز</string>
+    <string name="device_height">ادخل طول الجهاز(بالملليمتر)</string>
+    <string name="device_width">ادخل عرض الجهاز(بالملليمتر)</string>
+    <string name="confirm_bulk_order_title">إنهاء طلبك</string>
+    <string name="shop_name">النشاط التجاري(اسم المحل)</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language">اللغة</string>
+    <string name="toast_correct_phone_number">من فضلك تأكد من صحة الرقم (11 خانة)</string>
+    <string name="not_active_label">شكراً لك, تم إرسال تسجيلك\nانتظر تنشيط حسابك من فضلك.</string>
+    <string name="le">ج.م.</string>
+    <string name="register">تسجيل</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="bulk_register_shop">ادخل اسم النشاط التجاري من فضلك!</string>
+    <string name="quantity_toast">تأكد من الكمية (من 1 إلى 100)</string>
+    <string name="height">الطول = </string>
+    <string name="width">العرض = </string>
+    <string name="confirm_order_spinner_label">اختر المحافظة</string>
+    <string name="shipping_expenses">مصاريف الشحن</string>
+
+    <string name="location2">الإسكندرية و محافظات الدلتا والقنال</string>
+    <string name="location1">القاهرة و الجيزة</string>
+    <string name="location3">الصعيد</string>
+    <string name="toast_select_shipping_method">اختر اسم المحافظة من فضلك!</string>
+    <string name="purchases_price">المشتريات</string>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+
+
+    <TextView
+        android:id="@+id/bulk_buy_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:gravity="center"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/title_bulk_buyers"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/bulk_buy_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:layout_below="@id/bulk_buy_title"
+        android:text=" "
+        android:textColor="@android:color/black"
+        android:layout_margin="20dp"
+        android:textSize="16sp"/>
+
+
+    <Button
+        android:id="@+id/logout_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bulk_buy_label"
+        android:text="@string/logout"
+        android:background="@drawable/button_background"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"/>
+
+
+
+
+
+</RelativeLayout>

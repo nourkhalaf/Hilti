@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+
+    <TextView
+        android:id="@+id/bulk_buy_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:gravity="center"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/title_bulk_buyers"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/bulk_buy_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:layout_below="@id/bulk_buy_title"
+        android:text="@string/bulk_buyers_message"
+        android:textColor="@android:color/black"
+        android:layout_margin="20dp"
+        android:textSize="16sp"/>
+
+
+     <Button
+        android:id="@+id/sign_with_phone_number_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bulk_buy_label"
+        android:text="@string/sign_phone"
+        android:background="@drawable/button_background"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:layout_margin="20dp"
+         android:textAllCaps="false"
+        android:textSize="18sp"/>
+
+    <LinearLayout
+        android:id="@+id/buyer_register_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:paddingBottom="20dp"
+        android:visibility="gone"
+        android:background="@drawable/button_background"
+        android:layout_below="@id/bulk_buy_label">
+
+        <TextView
+            android:id="@+id/buyer_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:paddingStart="20dp"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:layout_margin="5dp"/>
+        <EditText
+            android:id="@+id/buyer_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/full_name"
+            android:textAlignment="viewStart"
+            android:layout_marginBottom="10dp"
+            android:paddingStart="20dp"
+            android:layout_margin="5dp"/>
+
+        <EditText
+            android:id="@+id/buyer_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/email"
+            android:textAlignment="viewStart"
+            android:layout_marginBottom="10dp"
+            android:paddingStart="20dp"
+            android:layout_margin="5dp"/>
+        <EditText
+            android:id="@+id/buyer_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/address"
+            android:textAlignment="viewStart"
+            android:layout_marginBottom="10dp"
+            android:paddingStart="20dp"
+             android:layout_margin="5dp"/>
+        <EditText
+            android:id="@+id/buyer_shop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/shop_name"
+            android:layout_marginBottom="10dp"
+            android:paddingStart="20dp"
+            android:textAlignment="viewStart"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:id="@+id/register_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+             android:text="@string/register"
+            android:background="@drawable/button_background"
+            android:backgroundTint="@color/colorPrimary"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:layout_margin="20dp"
+            android:textAllCaps="false"
+
+            android:textSize="18sp"/>
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

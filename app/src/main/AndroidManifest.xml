@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hiltiapp.hilti">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".testNumber">
+
+        </activity>
+        <activity android:name=".SliderActivity"></activity>
+        <activity android:name=".BulkBuyer.BuyerActivity" />
+        <activity android:name=".BulkBuyer.BuyerScreens.BuyerScreenDetailsActivity" />
+        <activity android:name=".BulkBuyer.BuyerScreens.ScreensProductsActivity" />
+        <activity android:name=".BulkBuyer.BuyerSkins.BuyerSkinDetailsActivity" />
+        <activity android:name=".BulkBuyer.BuyerSkins.SkinsProductsActivity" />
+        <activity android:name=".BulkBuyer.BuyerWoodDesigns.BuyerWoodDetailsActivity" />
+        <activity android:name=".BulkBuyer.BuyerWoodDesigns.WoodCategoriesActivity" />
+        <activity android:name=".BulkBuyer.BuyerWoodDesigns.WoodProductsActivity" />
+        <activity android:name=".ConfirmOrderActivity" />
+        <activity android:name=".BulkBuyer.ConfirmBulkOrderActivity" />
+        <activity android:name=".WoodDesigns.WoodDetailsActivity" />
+        <activity android:name=".Skins.SkinDetailsActivity" />
+        <activity android:name=".Skins.SkinsProductsActivity" />
+        <activity android:name=".Screens.ScreenDetailsActivity" />
+        <activity android:name=".Screens.ScreensProductsActivity" />
+        <activity android:name=".WoodDesigns.WoodCategoriesActivity" />
+        <activity android:name=".WoodDesigns.WoodProductsActivity" />
+        <activity android:name=".Devices.DeviceCategoriesActivity" />
+        <activity android:name=".Devices.DeviceDetailsActivity" />
+        <activity android:name=".Devices.DeviceProductsActivity" />
+        <activity android:name=".BulkBuyer.BulkDevices.DeviceCategoriesActivity" />
+        <activity android:name=".BulkBuyer.BulkDevices.DeviceProductsActivity" />
+        <activity android:name=".BulkBuyer.BulkDevices.BuyerDeviceDetailsActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+         </activity>
+    </application>
+
+</manifest>

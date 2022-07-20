@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "804025746491",
+    "firebase_url": "https://hilti-99b64-default-rtdb.firebaseio.com",
+    "project_id": "hilti-99b64",
+    "storage_bucket": "hilti-99b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804025746491:android:c53e0a427bb7d145ea081e",
+        "android_client_info": {
+          "package_name": "com.hiltiapp.hilti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804025746491-d20q1ghisvvvg8lvd50r1a3revo8kked.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClRYImeRk1II7wbwQsrDN2mQmMVmAVL40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804025746491-d20q1ghisvvvg8lvd50r1a3revo8kked.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804025746491:android:60fc2cceea746ff4ea081e",
+        "android_client_info": {
+          "package_name": "com.hiltiapp.hiltiadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804025746491-d20q1ghisvvvg8lvd50r1a3revo8kked.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClRYImeRk1II7wbwQsrDN2mQmMVmAVL40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804025746491-d20q1ghisvvvg8lvd50r1a3revo8kked.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

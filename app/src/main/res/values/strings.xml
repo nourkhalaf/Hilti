@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">HiLTi</string>
+    <string name="title_home">Home</string>
+    <string name="title_bulk_buyers">Bulk Buyers</string>
+    <string name="title_shopping_cart">Shopping Cart</string>
+    <string name="devices_screen">Device Protector</string>
+    <string name="mobile_skin">Mobile Skins</string>
+    <string name="mobile_screens">Mobile Screen Protector</string>
+    <string name="wood_designs">Wood Designs</string>
+    <string name="login_admin_name">Admin name</string>
+    <string name="login_password">Password</string>
+    <string name="login_remember_me">remember me</string>
+    <string name="login_btn">Log in</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="save_btn">Save</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="alert_delete_title">Sure you want to delete?</string>
+    <string name="toast_delete">deleted successfully!</string>
+
+
+    <string name="toast_add_product_fail">Sorry, try again!</string>
+    <string name="brands_btn">Brands</string>
+    <string name="product_details_code">code : </string>
+    <string name="product_details_description">Description :</string>
+    <string name="product_details_select_mobile">Select your mobile :</string>
+    <string name="product_details_notes">Enter words to add in your design :</string>
+    <string name="product_details_extra_price">"This will cost you extra price = "</string>
+    <string name="product_details_quantity">"Quantity :     "</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="confirm_order_title">"Please write your shipment details "</string>
+    <string name="phone_number">Phone number</string>
+    <string name="full_name">Full name</string>
+    <string name="address">Address</string>
+    <string name="city">Your city</string>
+    <string name="total_price">Total price</string>
+    <string name="confirm">Confirm</string>
+    <string name="screens">Screens</string>
+    <string name="select_brand">Select your brand</string>
+    <string name="select_model">Select your mobile model</string>
+    <string name="skins">Skins</string>
+    <string name="wood_designs_title">Wood Designs</string>
+    <string name="quantity_1">Quantity = 1</string>
+    <string name="bulk_buyers_message">You can shopping as a Bulk Buyer with special prices, let\'s start!</string>
+    <string name="sign_phone">Sign with phone number</string>
+    <string name="logout">Logout</string>
+    <string name="next">Next</string>
+    <string name="toast_added_to_cart">Added to shopping cart!</string>
+    <string name="bulk_register_label">"Please complete Register Form "</string>
+    <string name="bulk_register_name">Please enter your name</string>
+    <string name="bulk_register_email">Please enter your email</string>
+    <string name="bulk_register_address">Please enter your address</string>
+    <string name="toast_register_successfully">register successfully!</string>
+    <string name="toast_empty_cart">Your cart is empty!!</string>
+    <string name="alert_remove_item">Remove item from shopping cart?</string>
+    <string name="remove">Remove</string>
+    <string name="toast_remove_item">Item remove successfully!</string>
+    <string name="total_price_text">Total Price =  LE</string>
+    <string name="toast_add_phone_number">Please provide your phone number!</string>
+    <string name="toast_add_name">Please provide your full name!</string>
+    <string name="toast_add_address">Please provide your address!</string>
+    <string name="toast_add_city">Please provide your city name!</string>
+    <string name="cart_label">You can purchase more products, once you received your order!</string>
+    <string name="toast_order_message">Your order has been confirmed successfully!</string>
+    <string name="logout_alert">Logout from this account?</string>
+    <string name="toast_logout">logout successfully</string>
+    <string name="toast_welcome_buyer">Welcome dear bulk buyer</string>
+    <string name="devices_title">Devices</string>
+    <string name="toast_add_device_model">Please add device model!</string>
+    <string name="toast_add_device_height">Please add device height!</string>
+    <string name="toast_add_device_width">Please add device width!</string>
+    <string name="device_model">Enter Device Model</string>
+    <string name="device_height">Enter Device Height ( in milli meter)</string>
+    <string name="device_width">Enter Device Width ( in milli meter )</string>
+    <string name="confirm_bulk_order_title">"Complete your order "</string>
+    <string name="shop_name">commercial activity(Shop name)</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">Arabic</string>
+    <string name="language">Language</string>
+    <string name="toast_correct_phone_number">Please correct phone number ( must have 11 digits)</string>
+    <string name="not_active_label">Thank you, your registration sent\n please wait for activate it</string>
+    <string name="le">LE</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="bulk_register_shop">Please enter your shop name</string>
+    <string name="quantity_toast">Check quantity (from 1 to 100)</string>
+    <string name="height">height = </string>
+    <string name="width">width = </string>
+    <string name="confirm_order_spinner_label">Select Governorate : </string>
+    <string name="shipping_expenses">Shipping expenses</string>
+    <string name="location2">الإسكندرية و محافظات الدلتا والقنال</string>
+    <string name="location1">القاهرة و الجيزة</string>
+    <string name="location3">الصعيد</string>
+    <string name="toast_select_shipping_method">Please select governorate!</string>
+    <string name="purchases_price">Purchases</string>
+
+
+</resources>
